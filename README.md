@@ -1,5 +1,5 @@
 
-# Real-Time Chat Application  
+# ✨ Full Stack Realtime Chat App ✨
 
 ## Overview  
 This project is a real-time chat application built using a modern web stack. It enables users to sign up, log in, update their profiles, and communicate in real-time. The application is designed with user authentication, responsive design, and real-time messaging features to ensure a seamless user experience.  
