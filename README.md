@@ -1,6 +1,3 @@
-Here’s a concise and professional README file for your project:  
-
----
 
 # Real-Time Chat Application  
 
